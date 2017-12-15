@@ -1,2 +1,8 @@
 # zork-it-out
-big c++ zork fucks me over so i have to save it here while it still works. //help
+zork c++ file program with working player and creature interactions. [Pre-room edit]
+  WORKING CLASSES AND SPECIFICSe
+      -characters 
+          -player
+          -creature
+       -items
+           -weapons
